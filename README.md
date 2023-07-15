@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 ## Tecnologías
-
+<!--
 [![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point)
 [![Coveralls](https://img.shields.io/coveralls/github/gitpoint/git-point.svg?style=flat-square)](https://coveralls.io/github/gitpoint/git-point)
 [![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
@@ -55,9 +55,9 @@ View repository and user information, control your notifications and even manage
 <p align="center">
   <img src = "http://i.imgur.com/HowF6aM.png" width=350>
 </p>
-
+-->
 ## Portfolio
-
+<!--
 A few of the things you can do with GitPoint:
 
 * View user activity feed
@@ -77,9 +77,9 @@ A few of the things you can do with GitPoint:
 <p align="center">
   <img src = "http://i.imgur.com/0iorG20.png" width=700>
 </p>
-
+-->
 ## Contacto [![Sponsors on Open Collective](https://opencollective.com/git-point/sponsors/badge.svg)](#sponsors)
-
+<!--
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/git-point#sponsor)]
 
 <a href="https://opencollective.com/git-point/sponsor/0/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/0/avatar.svg"></a>
@@ -92,3 +92,4 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 <a href="https://opencollective.com/git-point/sponsor/7/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/7/avatar.svg"></a>
 <a href="https://opencollective.com/git-point/sponsor/8/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/8/avatar.svg"></a>
 <a href="https://opencollective.com/git-point/sponsor/9/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/9/avatar.svg"></a>
+-->

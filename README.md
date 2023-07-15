@@ -26,6 +26,10 @@ Here are some ideas to get you started:
   Desarrollador full-stack
 </p>
 
+<p dir="auto">Soy desarrollador desde hace más de 9 años.</p>
+
+<p dir="auto">He estado trabajando en una empresa de telecomunicaciones hasta el 2022 (8 años) en la que he desarrollado una gran cantidad de software como un CRM personalizado para la gestión de clientes de la empresa, APP móviles para el área de cliente así como un software para la reproducción de IPTV... También se desarrollaron herramientas para agilizar el trabajo de los técnicos como software para la aprovisionamiento de equipos de clientes, monitorización de redes y de clientes... </p>
+
 <p align="center">
   <a href="https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8">
     <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">

@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 <p dir="auto">Soy desarrollador desde hace más de 9 años.</p>
 
-<p dir="auto">He estado trabajando en una empresa de telecomunicaciones hasta el 2022 (8 años) en la que he desarrollado una gran cantidad de software como un CRM personalizado para la gestión de clientes de la empresa, APP móviles para el área de cliente así como un software para la reproducción de IPTV... También se desarrollaron herramientas para agilizar el trabajo de los técnicos como software para la aprovisionamiento de equipos de clientes, monitorización de redes y de clientes, etc </p>
+<p dir="auto">He estado trabajando en una empresa de telecomunicaciones hasta el 2022 (8 años) en la que he desarrollado una gran cantidad de software como un CRM personalizado para la gestión de clientes de la empresa, APP móviles para el área de cliente así como un software para la reproducción de IPTV... También se desarrollaron herramientas para agilizar el trabajo de los técnicos como software para el aprovisionamiento de equipos de clientes, monitorización de redes y de clientes, etc. </p>
 
-<p dir="auto">He programado varias páginas web durante este tiempo para amigos y conocidos utilizando CMS como WordPress y PrestaShop. </p>
+<p dir="auto">Durante este periodo tambien he programado varias páginas web para amigos y conocidos utilizando CMS como WordPress y PrestaShop. </p>
 
 ## Indice de contentidos
 
